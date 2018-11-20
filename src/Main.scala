@@ -3,4 +3,7 @@ object Main extends App {
   listClass.findLast();
   println(listClass.findLast())
   println(listClass.findPenultimate())
+  println(listClass.numOfElements())
+  println(listClass.reverseList())
+  print(listClass.isPalindrome())
 }
